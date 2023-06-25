@@ -8,7 +8,7 @@ function App({ Component, pageProps }: AppProps) {
   return (<>
     <div className="flex flex-col min-h-screen p-10">
       <div className="flex flex-col items-center overflow-auto">
-        <Header />
+        {/* <Header /> */}
         <Component {...pageProps} />
       </div>
       <Analytics />
