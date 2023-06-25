@@ -1,4 +1,3 @@
 {
-  "buildCommand": "npm run build",
-  "ignoreCommand": "turbo-ignore"
+  "buildCommand": "npm run build"
 }
